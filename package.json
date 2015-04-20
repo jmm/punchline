@@ -1,6 +1,6 @@
 {
   "name": "punchline",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "author": "Jesse McCarthy (http://software.jessemccarthy.net/)",
   "repository": {
@@ -11,8 +11,9 @@
   "main": "lib/api.js",
   "bin": "lib/cli.js",
   "files": [
-    "lib/",
-    "LICENSE"
+    "LICENSE",
+    "package.json",
+    "lib/"
   ],
   "dependencies": {
     "npm": "2.x"
